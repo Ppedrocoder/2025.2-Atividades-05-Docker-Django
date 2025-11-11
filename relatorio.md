@@ -1,5 +1,6 @@
 # Atividade Django com Docker - Pedro Ricardo - 10/11/2025 #
 
+## Processo: ##
 ### 1. Criando Pastas ###
 ![](./imgs/passo1.png)
 
@@ -29,3 +30,9 @@
 
 ### 10. Criando Imagem de Produção ###
 ![](./imgs/passo22.png)
+
+## Relato:
+No processo aprendi a criar o container e criar um projeto Django nele e manipular os arquivos, porém, no processo não consegui acessar as páginas pela porta 8000 através do codespace.
+
+## Conclusão:
+Consegui desenvolver todos os passos do desenvolvimento, assim, aprendendo a criar um docker para desenvolver projetos com Django, porém, ficou faltando a execução das páginas por conta da não conexão com a porta 8000 através do codespace.
