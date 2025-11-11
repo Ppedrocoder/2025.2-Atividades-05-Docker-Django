@@ -26,3 +26,6 @@
 
 ### 9. Criar o Banco de Dados e Criar o Superusuário ###
 ![](./imgs/passo11e12.png)
+
+### 10. Criando Imagem de Produção ###
+![](./imgs/passo22.png)

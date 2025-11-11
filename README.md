@@ -393,8 +393,8 @@ docker logs -f django-app-prod
 - [X] Superusuário criado (username: admin, password: 321)
 - [ ] View simples criada e testada
 - [ ] Painel admin acessível e funcional
-- [ ] Container de desenvolvimento testado
-- [ ] Container de produção testado
+- [X] Container de desenvolvimento testado
+- [X] Container de produção testado
 
 ## Entrega
 
