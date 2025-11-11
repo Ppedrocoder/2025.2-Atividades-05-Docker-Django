@@ -36,3 +36,6 @@ No processo aprendi a criar o container e criar um projeto Django nele e manipul
 
 ## Conclusão:
 Consegui desenvolver todos os passos do desenvolvimento, assim, aprendendo a criar um docker para desenvolver projetos com Django, porém, ficou faltando a execução das páginas por conta da não conexão com a porta 8000 através do codespace.
+
+### Erro apresentado na mudança dos arquivos pelo codespace
+![](./imgs/erro.png)
